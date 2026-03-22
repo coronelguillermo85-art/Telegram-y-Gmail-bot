@@ -1,48 +1,46 @@
 # 🤖 AI-Ops & Automation Ecosystem
 ### Desarrollado por Guillermo Coronel
 
-Este repositorio centraliza mis desarrollos en **Automatización de Procesos (IPA)** y **Orquestación de Inteligencia Artificial**. Aquí demuestro cómo transformo tareas manuales en flujos de trabajo autónomos, escalables y eficientes.
+Este repositorio centraliza mis desarrollos en **Automatización de Procesos (IPA)** y **Orquestación de Inteligencia Artificial**. Aquí demuestro cómo utilizo **Make** como sistema nervioso y **Dify** como cerebro cognitivo para optimizar flujos de trabajo profesionales.
 
 ---
 
-## 📂 Proyecto 1: Mail-Ops Manager (Help Desk)
-*Sistema de centralización de avisos y gestión de Mesa de Ayuda.*
+## 📧 Proyecto 1: Gmail-Ops Intelligent Agent (Dify + Make)
+*Automatización inteligente de respuestas y gestión de correo.*
 
-![Flujo de Gmail en Make](Gmail%20Bot%20make.jpg)
+![Ecosistema Gmail Dify Make](![Telegrambot Dify](https://github.com/user-attachments/assets/5ecc1b96-b2be-4364-879c-f9721d4a58d0)
+![Gmail Bot make](https://github.com/user-attachments/assets/8bc3ed53-ca32-4295-89c9-a0763eca42b4)
+![Telegram Bot Make](https://github.com/user-attachments/assets/0188fba0-4c3f-4e87-98a6-e1f98f6a971c)
+![Gmail Bot Dify](https://github.com/user-attachments/assets/d59a2f1b-d241-43a9-a8c0-974efb22799c)
+ )![Gmail Bot Dify](https://github.com/user-attachments/assets/819e52e2-38f4-4139-9f75-608efedaa6a0)
 
-**Funcionamiento:** Captura reportes técnicos, los centraliza en Google Sheets para trazabilidad y despacha correos automáticos vía Gmail para cumplimiento de SLAs.
 
----
-
-## 📂 Proyecto 2: AI-Job-Scout (Búsqueda de Oportunidades)
-*Sistema de filtrado inteligente y scouting mediante IA.*
-
-![Flujo de Telegram en Make](Telegram%20Bot%20Make.jpg)
-
-**Funcionamiento:** Monitorea feeds RSS en tiempo real y usa peticiones HTTP para validar actualizaciones, enviando alertas instantáneas a Telegram.
-
----
-
-## 📂 Proyecto 3: Cerebro de Clasificación con IA
-*Orquestación de LLM para toma de decisiones.*
-
-![Agente de Clasificación en Dify](Telegrambot%20Dify.jpg)
-
-**Arquitectura:** Utiliza Llama 3.1 en **Dify.ai** para evaluar la relevancia de los datos capturados, asignar un scoring y generar síntesis informativas automáticas.
+**Arquitectura:**
+- **Make (Orquestador):** Monitorea la bandeja de entrada y extrae el contenido de los correos.
+- **Dify (Cerebro):** Procesa el texto mediante LLM (Llama 3.1) para entender la intención, categorizar el pedido y redactar una respuesta personalizada basada en mi perfil profesional.
+- **Acción:** El flujo vuelve a Make para disparar el envío automático del correo, garantizando una comunicación técnica impecable y veloz.
 
 ---
 
-## 📂 Proyecto 4: AI-Cover-Letter Generator
-*Generador de cartas de presentación personalizadas.*
+## 📱 Proyecto 2: Telegram-Ops Intelligent Scout (Dify + Make)
+*Monitoreo y filtrado cognitivo de datos en tiempo real.*
 
-![Generador de Cartas en Dify](Gmail%20Bot%20Dify.jpg)
+![Ecosistema Telegram Dify Make]![Telegrambot Dify](https://github.com/user-attachments/assets/bea4939d-96e6-4955-9b50-c2ab3344101c)
+(![Telegram Bot Make](https://github.com/user-attachments/assets/13eb7c37-9d99-4792-8990-124a80dff897)
+)
 
-**Lógica:** Agente especializado que procesa el perfil profesional y el contexto de la empresa para redactar presentaciones directas y efectivas.
+**Arquitectura:**
+- **Make (Captura):** Recolecta información de fuentes externas (RSS, Scrapping HTTP, Google Sheets).
+- **Dify (Cerebro):** Clasifica la información, descarta el "ruido" y asigna un puntaje de relevancia (Scoring) a cada dato detectado.
+- **Acción:** Envía la información ya "curada" y resumida a mi **Bot de Telegram**, permitiendo una toma de decisiones inmediata desde el móvil.
 
 ---
 
-## 🛠 Stack Tecnológico
-* **Orquestación:** Make.com, n8n.
-* **Inteligencia Artificial:** Dify.ai (Llama 3.1).
-* **Bases de Datos:** Google Sheets, Airtable.
-* **Comunicaciones:** Telegram Bot API, Gmail API.
+## 🛠 Stack Tecnológico Híbrido
+* **Cerebro (IA):** Dify.ai (Orquestación de LLMs, Llama 3.1).
+* **Nervios (Automatización):** Make.com (Conexión de APIs y flujos HTTP).
+* **Bases de Datos:** Google Sheets / Airtable.
+* **Canales:** Telegram Bot API, Gmail API.
+
+---
+*Este portfolio demuestra mi capacidad para implementar soluciones de Nivel 2 y 3, integrando Inteligencia Artificial en procesos de negocio reales.*
