@@ -11,8 +11,7 @@ Este repositorio centraliza mis desarrollos en **Automatización de Procesos (IP
 ![Ecosistema Gmail Dify Make](![Telegrambot Dify](https://github.com/user-attachments/assets/5ecc1b96-b2be-4364-879c-f9721d4a58d0)
 ![Gmail Bot make](https://github.com/user-attachments/assets/8bc3ed53-ca32-4295-89c9-a0763eca42b4)
 ![Telegram Bot Make](https://github.com/user-attachments/assets/0188fba0-4c3f-4e87-98a6-e1f98f6a971c)
-![Gmail Bot Dify](https://github.com/user-attachments/assets/d59a2f1b-d241-43a9-a8c0-974efb22799c)
- )![Gmail Bot Dify](https://github.com/user-attachments/assets/819e52e2-38f4-4139-9f75-608efedaa6a0)
+
 
 
 **Arquitectura:**
